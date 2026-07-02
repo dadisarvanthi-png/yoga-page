@@ -1,10 +1,10 @@
 # Project Name
 
-A modern and responsive web application built using HTML, CSS, and JavaScript.
+A modern and responsive web application built using HTML, CSS, .
 
 ## 🚀 Live Demo
 
-🔗 https://your-live-demo-link.com
+🔗 yoga-page-o41rvnlii-html9.vercel.app
 
 ## 📂 GitHub Repository
 
@@ -58,7 +58,7 @@ git clone https://github.com/yourusername/project-name.git
 
 ## 👤 Author
 
-**Your Name**
+**dadi sravanthi**
 
 - GitHub: https://github.com/yourusername
 - LinkedIn: https://linkedin.com/in/your-linkedin
